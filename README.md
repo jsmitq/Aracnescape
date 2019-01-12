@@ -1,4 +1,5 @@
 # Aracnescape
+![Splash](https://github.com/jsmitq/Aracnescape/blob/master/Assets/Aracnescape.png?raw=true)
 
 Developed using C# and Unity
 
